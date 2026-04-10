@@ -4,9 +4,9 @@ Este repositõrio contém as atividades práticas e os exercícios desenvolvido 
 
 ## 👥 Integrantes do Grupo
 
-* Bruno Valério Abrahim
-* Gabriel Rodrigues Soares
-* Leonardo Xavier Rodrigues
+* Bruno Valério Abrahim - 23000333-2
+* Gabriel Rodrigues Soares - 23038182-2
+* Leonardo Xavier Rodrigues - 23178963-2
 
 **Turma** ESOFT-A - 7º semestre
 
