@@ -1,6 +1,6 @@
 # Inteligência Artificial
 
-Este repositõrio contém as atividades práticas e os exercícios desenvolvido na disciplina de **Inteligência Artificial**, utilizando o dataset sugerido em aula sobre a **Gripe**
+Este repositório contém os trabalhos práticos e os exercícios desenvolvidos na disciplina de **Inteligência Artificial**, utilizando o **dataset** [Mushroom Dataset (UCI)](https://www.kaggle.com/datasets/uciml/mushroom-classification).
 
 ## 👥 Integrantes do Grupo
 
@@ -9,14 +9,3 @@ Este repositõrio contém as atividades práticas e os exercícios desenvolvido 
 * Leonardo Xavier Rodrigues - 23178963-2
 
 **Turma** ESOFT-A - 7º semestre
-
----
-
-## Sobre as atividades
-
-Cada pasta contém um notebook que irã apresentar um exemplo dos modelos
-
-* KNN
-* Naive
-* Arvore
-* Regras
